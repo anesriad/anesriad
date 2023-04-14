@@ -14,7 +14,7 @@ Born and raised in Morocco and currently based in the Cardiff, UK. I'm an automa
 
 ## My work:
 
-<img src= "https://github.com/anesriad/anesriad/blob/main/ML_type2_diabetes.png" width="256" alt= "ML diabetes type 2" <a href="[url](https://github.com/anesriad/ML_diabetes)">ML type 2 diabetes</a>/>
+<a href="[url](https://github.com/anesriad/ML_diabetes)"><img src= "https://github.com/anesriad/anesriad/blob/main/ML_type2_diabetes.png" width="256" alt= "ML diabetes type 2" /> </a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anesriad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/riadanas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coach-riad.com/productivity-coaching/)  
 
