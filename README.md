@@ -14,7 +14,7 @@ Born and raised in Morocco and currently based in the Cardiff, UK. I'm an automa
 
 ## My work:
 
-<img src= 'file:///Users/riadanas/Desktop/Screenshot%202023-04-14%20at%2012.16.08.png' width=256>
+<img src= 'file:///Users/riadanas/Desktop/Screenshot%202023-04-14%20at%2012.16.08.png' width=256 />
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anesriad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/riadanas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coach-riad.com/productivity-coaching/)  
 
