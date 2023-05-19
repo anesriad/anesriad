@@ -9,11 +9,9 @@
 Born and raised in Morocco and currently based in the Cardiff, UK. I'm an automation & IT engineer who pivoted into cloud computing and machine learning. I'm currently finishing my second master's degree in computer science. I've got experience working with Python for data science and machine learning, and also programming with HTML, CSS, and Wordpress.
 
 ## Certifications:
-AWS Cloud practitioner:
-<img src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-cloud-practitioner.png" width="90" alt= "AWS CCP" />
-AWS Solutions architect associate:
+
+<img align="left" src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-cloud-practitioner.png" width="90" alt= "AWS CCP" />
 <img src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-solutions-architect-associate.png" width="90" alt= "AWS SAA" /> 
-Heroic Life coach:
 <img src= "https://github.com/anesriad/anesriad/blob/main/Anas-Riad-Coach.png" width="90" alt= "Heroic coaching certification" /> 
 
 ## Skills: Python / machine learning / HTML / CSS
