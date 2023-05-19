@@ -23,6 +23,9 @@ Born and raised in Morocco and currently based in the Cardiff, UK. I'm an automa
 ### 2/ Machine learning project on submarines categorizing: Rocks vs Mines
 <a href="https://github.com/anesriad/rock_vs_mine.git"><img src= "https://github.com/anesriad/anesriad/blob/main/rock_vs_mine_picture.jpeg" width="256" alt= "ML rock vs mine" /> </a>
 
+### 3/ Machine learning project on housing prices in Boston (USA)
+<a href="https://github.com/anesriad/housing_prices.git"><img src= "https://github.com/anesriad/anesriad/blob/main/Beautiful-Houses.jpeg" width="256" alt= "ML housing prices" /> </a>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anesriad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/riadanas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coach-riad.com/productivity-coaching/)  
 
