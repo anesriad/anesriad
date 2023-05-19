@@ -1,11 +1,14 @@
 ![I am a machine learning cloud architect](https://github.com/anesriad/anesriad/blob/main/LinkedIn%20AI%20banner.png)
 
 #  Hey I'm Anas Riad
-## I am a machine learning cloud architect
+## I am a computer scientist with a keen interest in data science (machine learning) and cloud computing (AWS)
+### I'm certified twice with AWS as a cloud practitioner and solutions architect associate
+### I have a master's degree in automation and IT engineering and finishing in summer 2023 my second master's in advanced computer science
 
+## About me:
 Born and raised in Morocco and currently based in the Cardiff, UK. I'm an automation & IT engineer who pivoted into cloud computing and machine learning. I'm currently finishing my second master's degree in computer science. I've got experience working with Python for data science and machine learning, and also programming with HTML, CSS, and Wordpress.
 
-## Skills: Python / HTML / CSS
+## Skills: Python / machine learning / HTML / CSS
 
 - 🔭 I’m currently working on getting my first job in machine learning and/or cloud architect in the UK. 
 - 🌱 I’m currently learning Linux, dockers, and kubernetes. 
