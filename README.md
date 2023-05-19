@@ -10,7 +10,7 @@ Born and raised in Morocco and currently based in the Cardiff, UK. I'm an automa
 
 ## Certifications:
 AWS Cloud practitioner:
-<img align="left" src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-cloud-practitioner.png" width="90" alt= "AWS CCP" />
+<img src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-cloud-practitioner.png" width="90" alt= "AWS CCP" />
 AWS Solutions architect associate:
 <img src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-solutions-architect-associate.png" width="90" alt= "AWS SAA" /> 
 Heroic Life coach:
