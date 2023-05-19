@@ -12,6 +12,8 @@ Born and raised in Morocco and currently based in the Cardiff, UK. I'm an automa
 <img align="left" src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-cloud-practitioner.png" width="90" alt= "AWS CCP" />
 <img align="right" src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-solutions-architect-associate.png" width="90" alt= "AWS SAA" />
 
+
+
 ## Skills: Python / machine learning / HTML / CSS
 
 - 🔭 I’m currently working on getting my first job in machine learning and/or cloud architect in the UK. 
