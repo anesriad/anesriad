@@ -11,7 +11,7 @@ Born and raised in Morocco and currently based in the Cardiff, UK. I'm an automa
 ## Certifications:
 <img align="left" src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-cloud-practitioner.png" width="90" alt= "AWS CCP" />
 <img src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-solutions-architect-associate.png" width="90" alt= "AWS SAA" /> 
-<img src= "https://github.com/anesriad/anesriad/blob/main/Anas-Riad-Certificate.pdf" width="90" alt= "Heroic coaching certification" /> 
+<img src= "https://github.com/anesriad/anesriad/blob/main/Anas-Riad-Certificate.png" width="90" alt= "Heroic coaching certification" /> 
 
 ## Skills: Python / machine learning / HTML / CSS
 
