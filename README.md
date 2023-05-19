@@ -14,7 +14,7 @@ Born and raised in Morocco and currently based in the Cardiff, UK. I'm an automa
 
 ## My work:
 
-<a href="https://github.com/anesriad/ML_diabetes"><img src= "https://github.com/anesriad/anesriad/blob/main/ML_type2_diabetes.png" width="256" alt= "ML diabetes type 2" /> </a>
+<a href="https://github.com/anesriad/ML_diabetes"><img src= "https://github.com/anesriad/anesriad/blob/main/ML_type2_diabetes.png" width="256" title= "Diabetes ML dataset" alt= "ML diabetes type 2" /> </a>
 
 <a href="https://github.com/anesriad/rock_vs_mine.git"><img src= "https://github.com/anesriad/anesriad/blob/main/rock_vs_mine_picture.jpeg" width="256" alt= "ML rock vs mine" /> </a>
 
