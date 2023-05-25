@@ -23,7 +23,7 @@ Born and raised in Morocco and currently based in the Cardiff, UK. I'm an automa
 
 ## My work:
 
-### 1/ Machine learning project on type 2 diabetes for pregnant women
+### 1/ Machine learning project and deployment (web App) on type 2 diabetes for pregnant women
 <a href="https://github.com/anesriad/ML_diabetes"><img src= "https://github.com/anesriad/anesriad/blob/main/ML_type2_diabetes.png" width="256" alt= "ML diabetes type 2" /> </a>
 
 ### 2/ Machine learning project on submarines categorizing: Rocks vs Mines
