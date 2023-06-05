@@ -36,10 +36,10 @@ I am a person who likes positive pressure since it gives the best output in my w
 ### 3/ Machine learning project on submarines categorizing: Rocks vs Mines
 <a href="https://github.com/anesriad/rock_vs_mine.git"><img src= "https://github.com/anesriad/anesriad/blob/main/rock_vs_mine_picture.jpeg" width="256" alt= "ML rock vs mine" /> </a>
 
-### 4/ Machine learning project on housing prices in Boston (USA)
+### 4/ Machine learning project on housing prices in Boston (USA) / Regression
 <a href="https://github.com/anesriad/housing_prices.git"><img src= "https://github.com/anesriad/anesriad/blob/main/Beautiful-Houses.jpeg" width="256" alt= "ML housing prices" /> </a>
 
-### 5/ Machine learning project on fake news
+### 5/ Machine learning project on fake news classification
 <a href="https://github.com/anesriad/Fake_news_ML.git"><img src= "https://github.com/anesriad/anesriad/blob/main/fake_news.jpeg" width="256" alt= "ML fake news" /> </a>
 
 
