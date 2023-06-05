@@ -27,6 +27,9 @@ I am a person who likes positive pressure since it gives the best output in my w
 
 ## My work:
 
+### 1/ Deep learning project on breast cancer classification
+<a href="https://github.com/anesriad/deep_learning_breast_cancer.git"><img src= "https://github.com/anesriad/anesriad/blob/main/breast_cancer.jpeg" width="256" alt= "Deep learning breast cancer" /> </a>
+
 ### 2/ Machine learning project and deployment (web App) on type 2 diabetes for pregnant women
 <a href="https://github.com/anesriad/ML_diabetes"><img src= "https://github.com/anesriad/anesriad/blob/main/ML_type2_diabetes.png" width="256" alt= "ML diabetes type 2" /> </a>
 
