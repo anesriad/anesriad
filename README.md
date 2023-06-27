@@ -42,6 +42,10 @@ I am a person who likes positive pressure since it gives the best output in my w
 ### 5/ Machine learning project on fake news classification
 <a href="https://github.com/anesriad/Fake_news_ML.git"><img src= "https://github.com/anesriad/anesriad/blob/main/fake_news.jpeg" width="256" alt= "ML fake news" /> </a>
 
+### 5/ Web Scrapping for books using BeautifulSoup
+<a href="https://github.com/anesriad/web_scrapping_books_bs4.git"><img src= "https://github.com/anesriad/anesriad/blob/main/books.png" width="256" alt= "web scrapping books" /> </a>
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anesriad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/riadanas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coach-riad.com/productivity-coaching/)  
 
