@@ -40,7 +40,7 @@ I am a person who likes positive pressure since it gives the best output in my w
 <a href="https://github.com/anesriad/housing_prices.git"><img src= "https://github.com/anesriad/anesriad/blob/main/Beautiful-Houses.jpeg" width="256" alt= "ML housing prices" /> </a>
 
 ### 5/ Machine learning project on fake news classification
-<a href="https://github.com/anesriad/Fake_news_ML.git"><img src= "https://github.com/anesriad/anesriad/blob/main/fake_news.jpeg" width="256" alt= "ML fake news" /> </a>
+<a href="https://github.com/anesriad/Fake_news_ML.git"><img src= "https://github.com/anesriad/web_scrapping_books_bs4/blob/main/books2.jpeg" width="256" alt= "ML fake news" /> </a>
 
 ### 5/ Web Scrapping for books using BeautifulSoup
 <a href="https://github.com/anesriad/web_scrapping_books_bs4.git"><img src= "https://github.com/anesriad/anesriad/blob/main/books2.jpeg" width="256" alt= "web scrapping books" /> </a>
