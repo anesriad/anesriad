@@ -18,7 +18,7 @@ I am a person who likes positive pressure since it gives the best output in my w
 <img src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-solutions-architect-associate.png" width="90" alt= "AWS SAA" /> 
 <img src= "https://github.com/anesriad/anesriad/blob/main/Anas-Riad-Coach.png" width="90" alt= "Heroic coaching certification" /> 
 
-## Skills: Python / machine learning / HTML / CSS / Advanced mathematics and statistics / Git / Github / ChatGPT / Notion
+## Skills: Python / machine learning / HTML / CSS / SQL / Advanced mathematics and statistics / Git / Github / ChatGPT / Notion
 
 - 🔭 I’m currently working on getting my first job in machine learning and/or cloud architect in the UK. 
 - 🌱 I’m currently learning sagemaker (AWS), Tensorflow, and SQL. 
