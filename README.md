@@ -3,7 +3,7 @@
 #  Hey I'm Anas Riad
 ### I am a computer scientist with a keen interest in data science (machine learning) and cloud computing (AWS)
 #### I'm certified twice with AWS as a cloud practitioner and solutions architect associate
-#### I have a master's degree in automation and IT engineering and currently finalizing my second master's in advanced computer science in August 2023
+#### I have 2 master's degrees: 1/ in automation and IT engineering | 2/ in advanced computer science
 
 ## About me:
 I’ve co-founded a musical event company when I was 19, and been touring as a DJ all over Morocco for 5 years and I also played in France. These experiences taught me the importance of taking action, facing difficulties, embracing failures, and so many other things I’m grateful for today.
