@@ -1,16 +1,16 @@
-![I am a machine learning cloud architect](https://github.com/anesriad/anesriad/blob/main/LinkedIn%20AI%20banner.png)
+![Junior Data Scientist](https://github.com/anesriad/anesriad/blob/main/LinkedIn%20AI%20banner.png)
 
 #  Hey I'm Anas Riad
-### I am a computer scientist with a keen interest in data science (machine learning) and cloud computing (AWS)
-#### I'm certified twice with AWS as a cloud practitioner and solutions architect associate
-#### I have 2 master's degrees: 1/ in automation and IT engineering | 2/ in advanced computer science
+## PROFESSIONAL PROFILE:
 
-## About me:
-I’ve co-founded a musical event company when I was 19, and been touring as a DJ all over Morocco for 5 years and I also played in France. These experiences taught me the importance of taking action, facing difficulties, embracing failures, and so many other things I’m grateful for today.
-I’m a big fan and practitioner of productivity and love reading books. Since, 2020 my whole life was centered around personal development and improving performance via productivity, healthy lifestyle, and growth mindset.
-I’ve been through a yearly coaching program where I got to improve my habits, routines, health, and relationship with my body and mind. I’m now certified as a life coach from Heroic coaching program based in the USA.
-I believe that a healthy mind is directly linked to a healthy body and vice versa, that’s why I prioritize taking care of myself via meditation, healthy foods, exercising (tennis, football, and gym), and also enjoying life (family, friends, trips...).
-I am a person who likes positive pressure since it gives the best output in my work. I’ve been branding on healthy lifestyle and productivity on LinkedIn and Twitter for 14 months, I was creating content on a daily basis without skipping one day. I was creating text, video, and designs to educate my audience in topics such as productivity, lifestyle, and mindset. I got over 4000 followers in combined accounts.
+With a diverse background in data science and machine learning, I am proficient in Python, NLP, and machine learning. I'm committed to delivering data-driven solutions to real-world problems. My experience includes collaborating with stakeholders to ensure data accuracy, implementing data validation processes, and supporting large-scale machine learning systems. I have a strong track record of conducting experiments, presenting insights to executive leadership, and optimizing content experiences. Additionally, I hold certifications in AWS Solutions Architecture and Linux Shell Scripting, showcasing my expertise in cloud computing and database management.
+
+If you're seeking a data scientist and machine learning consultant with a strong academic foundation and practical experience, I'm eager to collaborate with you on your projects. Let's work together to transform data into actionable insights and build exceptional solutions. Connect with me to discuss how I can contribute to your success.
+
+
+## BACKGROUND & EDUCATION:
+
+I've earned recognition as a top performance coach and co-founded successful social media campaigns and events. With a Master's in Advanced Computer Science and a Master's in Automation & IT Engineering, I bring a deep understanding of data science and technical skills to the table. I'm fluent in four languages (French, English, Arabic, and Russian) and possess a growth mindset, fostering creativity, honesty, and leadership in all my endeavors.
 
 ## Certifications:
 
@@ -20,10 +20,10 @@ I am a person who likes positive pressure since it gives the best output in my w
 
 ## Skills: Python / machine learning / HTML / CSS / SQL / Advanced mathematics and statistics / Git / Github / ChatGPT / Notion
 
-- 🔭 I’m currently working on getting my first job in machine learning and/or cloud architect in the UK. 
-- 🌱 I’m currently learning sagemaker (AWS), Tensorflow, and SQL. 
+- 🔭 I’m currently a consultant Data Scientist for Uhubs
+- 🌱 I’m currently learning Tableau, PowerBI, and deploying ML
 - 👯 I’m looking to collaborate on ML/DL projects 
-- ⚡ Fun fact: Been a professional Dj for 6 years 
+- ⚡ Fun fact: Been a professional DJ for 6 years 
 
 ## My work:
 
