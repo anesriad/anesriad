@@ -14,14 +14,17 @@ I've earned recognition as a top performance coach and co-founded successful soc
 
 ## Certifications:
 
-<img align="left" src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-cloud-practitioner.png" width="90" alt= "AWS CCP" />
-<img src= "https://github.com/anesriad/anesriad/blob/main/aws-certified-solutions-architect-associate.png" width="90" alt= "AWS SAA" /> 
-<img src= "https://github.com/anesriad/anesriad/blob/main/Anas-Riad-Coach.png" width="90" alt= "Heroic coaching certification" /> 
+- AWS Solutions Architect Associate
+- AWS Cloud Practitioner
+- IBM Linux and Shell Scripting Essentials
+- IBM Databases and SQL for Data Science with Python
+- Google Digital Marketing Fundamentals
+
 
 ## Skills: Python / machine learning / HTML / CSS / SQL / Advanced mathematics and statistics / Git / Github / ChatGPT / Notion
 
 - 🔭 I’m currently a consultant Data Scientist for Uhubs
-- 🌱 I’m currently learning Tableau, PowerBI, and deploying ML
+- 🌱 I’m currently upskilling PowerBI, and deploying end-2-end ML
 - 👯 I’m looking to collaborate on ML/DL projects 
 - ⚡ Fun fact: Been a professional DJ for 6 years 
 
@@ -44,6 +47,8 @@ I've earned recognition as a top performance coach and co-founded successful soc
 
 ### 5/ Web Scrapping for books using BeautifulSoup
 <a href="https://github.com/anesriad/web_scrapping_books_bs4.git"><img src= "https://github.com/anesriad/web_scrapping_books_bs4/blob/main/books2.jpeg" width="256" alt= "web scrapping books" /> </a>
+
+More projects in repositories!
 
 
 
