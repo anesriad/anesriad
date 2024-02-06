@@ -1,6 +1,7 @@
-![Data Scientist](https://github.com/anesriad/anesriad/blob/main/LinkedIn%20AI%20banner.png)
+![Data Scientist](https://github.com/anesriad/anesriad/blob/main/data%20syndicate%20github.png)
 
-#  Junior Data Scientist based in the UK
+#  Data Scientist based in the UK
+#  Work with me: https://bio.link/riadanas
 ## PROFESSIONAL PROFILE:
 
 With a diverse background in data science and machine learning, I am proficient in Python, NLP, and machine learning. I'm committed to delivering data-driven solutions to real-world problems. My experience includes collaborating with stakeholders to ensure data accuracy, implementing data validation processes, and supporting large-scale machine learning systems. I have a strong track record of conducting experiments, presenting insights to executive leadership, and optimizing content experiences. Additionally, I hold certifications in AWS Solutions Architecture and Linux Shell Scripting, showcasing my expertise in cloud computing and database management.
