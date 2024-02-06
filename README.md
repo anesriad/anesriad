@@ -1,4 +1,4 @@
-![Junior Data Scientist](https://github.com/anesriad/anesriad/blob/main/LinkedIn%20AI%20banner.png)
+![Data Scientist](https://github.com/anesriad/anesriad/blob/main/LinkedIn%20AI%20banner.png)
 
 #  Junior Data Scientist based in the UK
 ## PROFESSIONAL PROFILE:
@@ -10,7 +10,7 @@ If you're seeking a data scientist and machine learning consultant with a strong
 
 ## BACKGROUND & EDUCATION:
 
-I've earned recognition as a top performance coach and co-founded successful social media campaigns and events. With a Master's in Advanced Computer Science and a Master's in Automation & IT Engineering, I bring a deep understanding of data science and technical skills to the table. I'm fluent in four languages (French, English, Arabic, and Russian) and possess a growth mindset, fostering creativity, honesty, and leadership in all my endeavors.
+I've earned recognition as a top performance coach and co-founded successful social media campaigns and events. With a Master's in Advanced Computer Science and a Master's in Automation & IT Engineering, I bring a deep understanding of data science and technical skills to the table. I'm fluent in four languages (French, English, Arabic, and Russian) and possess a growth mindset, fostering creativity, honesty, and leadership in all my endeavours.
 
 ## Certifications:
 
@@ -23,12 +23,13 @@ I've earned recognition as a top performance coach and co-founded successful soc
 
 ## Skills: Python/machine learning / HTML / CSS / SQL / Advanced mathematics and statistics / Git / Github / ChatGPT / Notion
 
-- 🔭 I’m currently a consultant Data Scientist for Uhubs
+- 🔭 I’m currently Head of Data Science at Kadogoodiz (London)
 - 🌱 I’m currently upskilling PowerBI, and deploying end-2-end ML
 - 👯 I’m looking to collaborate on ML/DL projects 
-- ⚡ Fun fact: Been a professional DJ for 6 years 
+- ⚡ Fun fact: Been a professional DJ for 6 years
+- PS: I'm not showcasing client's work since it's strictly private.
 
-## My work:
+## My Personal work:
 
 ### 1/ Video games analysis and recommender system
 <a href="https://github.com/anesriad/video_games_recommender.git"><img src= "https://github.com/anesriad/video_games_recommender/blob/main/video_game_image.jpeg" width="256" alt= "video games recommender" /> </a>
