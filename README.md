@@ -24,9 +24,9 @@ I've earned recognition as a top performance coach and co-founded successful soc
 
 ## Skills: Python/machine learning / HTML / CSS / SQL / Advanced mathematics and statistics / Git / Github / ChatGPT / Notion
 
-- 🔭 I’m currently Head of Data Science at Kadogoodiz (London)
-- 🌱 I’m currently upskilling PowerBI, and deploying end-2-end ML
-- 👯 I’m looking to collaborate on ML/DL projects 
+- 🔭 I’m currently working as a Data Scientist at ROCK IT (UK)
+- 🌱 I’m currently upskilling PowerBI and Microsoft Fabric
+- 👯 I’m looking to collaborate on data analytics project
 - ⚡ Fun fact: Been a professional DJ for 6 years
 - PS: I'm not showcasing client's work since it's strictly private.
 
