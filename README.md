@@ -2,19 +2,32 @@
 
 #  Data Scientist based in the UK
 #  Work with me: https://bio.link/riadanas
-## PROFESSIONAL PROFILE:
+## My Portfolio:
 
-With a diverse background in data science and machine learning, I am proficient in Python, NLP, and machine learning. I'm committed to delivering data-driven solutions to real-world problems. My experience includes collaborating with stakeholders to ensure data accuracy, implementing data validation processes, and supporting large-scale machine learning systems. I have a strong track record of conducting experiments, presenting insights to executive leadership, and optimizing content experiences. Additionally, I hold certifications in AWS Solutions Architecture and Linux Shell Scripting, showcasing my expertise in cloud computing and database management.
+→ 3 years of experience as a consultant data scientist, delivering solutions across industries like Sales, HR, Tech, Law, and SaaS 
+→ Content creator on LinkedIn (5k+ followers) and YouTube (1k+ subs) sharing content data science and growth.
+→ Ex-co-founder of Syndic8, a musical event company that scaled to 6 figures and professional Dj for 5 years
+→ Previous experience as a performance coach, helping professionals improve their lifestyle and health
 
-If you're seeking a data scientist and machine learning consultant with a strong academic foundation and practical experience, I'm eager to collaborate with you on your projects. Let's work together to transform data into actionable insights and build exceptional solutions. Connect with me to discuss how I can contribute to your success.
 
+## My results
 
-## BACKGROUND & EDUCATION:
+→ 14 clients successfully served across various sectors 
+→ 6-figure growth achieved with Syndic8 
+→ Engaged online community across multiple platforms 
+→ Regular content production with a focus on practical data science tips and business strategies
 
-I've earned recognition as a top performance coach and co-founded successful social media campaigns and events. With a Master's in Advanced Computer Science and a Master's in Automation & IT Engineering, I bring a deep understanding of data science and technical skills to the table. I'm fluent in four languages (French, English, Arabic, and Russian) and possess a growth mindset, fostering creativity, honesty, and leadership in all my endeavours.
+## My skills
+→ Data cleaning, exploration, analysis, and visualization (Python)
+→ big data (PySpark)
+→ Database management (MySQL, PostgreSQL)
+→ Data science/engineering (Microsoft Fabric)
+→ Data visualisation, dashboards, and reporting (Power BI, Python(Plotly, MatplotLib, Seaborn))
+→ Cloud platforms (AWS 2x certified, Microsoft Azure x1 certified, GCP)
 
 ## Certifications:
 
+- Microsoft Power BI Analyst
 - AWS Solutions Architect Associate
 - AWS Cloud Practitioner
 - IBM Linux and Shell Scripting Essentials
@@ -22,15 +35,17 @@ I've earned recognition as a top performance coach and co-founded successful soc
 - Google Digital Marketing Fundamentals
 
 
-## Skills: Python/machine learning / HTML / CSS / SQL / Advanced mathematics and statistics / Git / Github / ChatGPT / Notion
+# Professional projects (client's name not disclosed
+→ Handled BI for an executive HR recruitment company based in London that operates worldwide using Power BI and Microsoft Fabric.
+→ Managed MySQL database, cleaned datasets, analysed datasets with Pandas, and performed NLP to recommend the persona most likely to sign up for a postgraduate law course in a university of law in the UK for an HR law firm based in London. Used primarily MySQL, Python, and Notion for reporting.
+→ Analysed datasets and performed NLP for a Sales/finance company based in London where I created a recommender system that takes free-text as input from salesmen and returns the best personal development plan to follow. Used primarily Python on this project and Notion to report.
+→ Analysed the software market for a SaaS company wanting to penetrate the market effectively. This project helped identify where to invest more in marketing and advertisement. The main tools used are Excel, Python, and Notion. Client based in the USA.
+→ 8-figure ads and marketing campaigns analysed over 10 different marketing (and social) channels for a US-based e-commerce giant where I helped identify where to spend more and the right timing (seasonality etc...). I worked under an experienced data strategist who was leading the project and I was assigned data-related analysis, machine learning, and reporting.
+→ Led the data science team in Kadogoodiz London where I built a recommender system to recommend what products to buy and at what price to make the best revenue margin.
+→ AI and tech advisor for a new SaaS called Alterfy based in the USA.
 
-- 🔭 I’m currently working as a Data Scientist at ROCK IT (UK)
-- 🌱 I’m currently upskilling PowerBI and Microsoft Fabric
-- 👯 I’m looking to collaborate on data analytics project
-- ⚡ Fun fact: Been a professional DJ for 6 years
-- PS: I'm not showcasing client's work since it's strictly private.
 
-## My Personal work:
+## Personal learning projects (university and other):
 
 ### 1/ Video games analysis and recommender system
 <a href="https://github.com/anesriad/video_games_recommender.git"><img src= "https://github.com/anesriad/video_games_recommender/blob/main/video_game_image.jpeg" width="256" alt= "video games recommender" /> </a>
