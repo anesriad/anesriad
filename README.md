@@ -35,7 +35,7 @@
 → Google Digital Marketing Fundamentals <br>
 
 
-# Professional projects (client's name not disclosed
+# Professional projects (client's name and data not disclosed)
 → Handled BI for an executive HR recruitment company based in London that operates worldwide using Power BI and Microsoft Fabric. <br>
 → Managed MySQL database, cleaned datasets, analysed datasets with Pandas, and performed NLP to recommend the persona most likely to sign up for a postgraduate law course in a university of law in the UK for an HR law firm based in London. Used primarily MySQL, Python, and Notion for reporting. <br>
 → Analysed datasets and performed NLP for a Sales/finance company based in London where I created a recommender system that takes free-text as input from salesmen and returns the best personal development plan to follow. Used primarily Python on this project and Notion to report. <br>
