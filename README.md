@@ -5,43 +5,43 @@
 ## My Portfolio:
 
 → 3 years of experience as a consultant data scientist, delivering solutions across industries like Sales, HR, Tech, Law, and SaaS <br>
-→ Content creator on LinkedIn (5k+ followers) and YouTube (1k+ subs) sharing content data science and growth.
-→ Ex-co-founder of Syndic8, a musical event company that scaled to 6 figures and professional Dj for 5 years
-→ Previous experience as a performance coach, helping professionals improve their lifestyle and health
+→ Content creator on LinkedIn (5k+ followers) and YouTube (1k+ subs) sharing content data science and growth <br>
+→ Ex-co-founder of Syndic8, a musical event company that scaled to 6 figures and professional Dj for 5 years <br>
+→ Previous experience as a performance coach, helping professionals improve their lifestyle and health <br>
 
 
 ## My results
 
-→ 14 clients successfully served across various sectors 
-→ 6-figure growth achieved with Syndic8 
-→ Engaged online community across multiple platforms 
-→ Regular content production with a focus on practical data science tips and business strategies
+→ 14 clients successfully served across various sectors  <br>
+→ 6-figure growth achieved with Syndic8  <br>
+→ Engaged online community across multiple platforms  <br>
+→ Regular content production with a focus on practical data science tips and business strategies <br>
 
 ## My skills
-→ Data cleaning, exploration, analysis, and visualization (Python)
-→ big data (PySpark)
-→ Database management (MySQL, PostgreSQL)
-→ Data science/engineering (Microsoft Fabric)
-→ Data visualisation, dashboards, and reporting (Power BI, Python(Plotly, MatplotLib, Seaborn))
-→ Cloud platforms (AWS 2x certified, Microsoft Azure x1 certified, GCP)
+→ Data cleaning, exploration, analysis, and visualization (Python) <br>
+→ big data (PySpark) <br>
+→ Database management (MySQL, PostgreSQL) <br>
+→ Data science/engineering (Microsoft Fabric) <br>
+→ Data visualisation, dashboards, and reporting (Power BI, Python(Plotly, MatplotLib, Seaborn)) <br>
+→ Cloud platforms (AWS 2x certified, Microsoft Azure x1 certified, GCP) <br>
 
 ## Certifications:
 
-- Microsoft Power BI Analyst
-- AWS Solutions Architect Associate
-- AWS Cloud Practitioner
-- IBM Linux and Shell Scripting Essentials
-- IBM Databases and SQL for Data Science with Python
-- Google Digital Marketing Fundamentals
+→ Microsoft Power BI Analyst <br>
+→ AWS Solutions Architect Associate <br>
+→ AWS Cloud Practitioner <br>
+→ IBM Linux and Shell Scripting Essentials <br>
+→ IBM Databases and SQL for Data Science with Python <br>
+→ Google Digital Marketing Fundamentals <br>
 
 
 # Professional projects (client's name not disclosed
-→ Handled BI for an executive HR recruitment company based in London that operates worldwide using Power BI and Microsoft Fabric.
-→ Managed MySQL database, cleaned datasets, analysed datasets with Pandas, and performed NLP to recommend the persona most likely to sign up for a postgraduate law course in a university of law in the UK for an HR law firm based in London. Used primarily MySQL, Python, and Notion for reporting.
-→ Analysed datasets and performed NLP for a Sales/finance company based in London where I created a recommender system that takes free-text as input from salesmen and returns the best personal development plan to follow. Used primarily Python on this project and Notion to report.
-→ Analysed the software market for a SaaS company wanting to penetrate the market effectively. This project helped identify where to invest more in marketing and advertisement. The main tools used are Excel, Python, and Notion. Client based in the USA.
-→ 8-figure ads and marketing campaigns analysed over 10 different marketing (and social) channels for a US-based e-commerce giant where I helped identify where to spend more and the right timing (seasonality etc...). I worked under an experienced data strategist who was leading the project and I was assigned data-related analysis, machine learning, and reporting.
-→ Led the data science team in Kadogoodiz London where I built a recommender system to recommend what products to buy and at what price to make the best revenue margin.
+→ Handled BI for an executive HR recruitment company based in London that operates worldwide using Power BI and Microsoft Fabric. <br>
+→ Managed MySQL database, cleaned datasets, analysed datasets with Pandas, and performed NLP to recommend the persona most likely to sign up for a postgraduate law course in a university of law in the UK for an HR law firm based in London. Used primarily MySQL, Python, and Notion for reporting. <br>
+→ Analysed datasets and performed NLP for a Sales/finance company based in London where I created a recommender system that takes free-text as input from salesmen and returns the best personal development plan to follow. Used primarily Python on this project and Notion to report. <br>
+→ Analysed the software market for a SaaS company wanting to penetrate the market effectively. This project helped identify where to invest more in marketing and advertisement. The main tools used are Excel, Python, and Notion. Client based in the USA. <br>
+→ 8-figure ads and marketing campaigns analysed over 10 different marketing (and social) channels for a US-based e-commerce giant where I helped identify where to spend more and the right timing (seasonality etc...). I worked under an experienced data strategist who was leading the project and I was assigned data-related analysis, machine learning, and reporting. <br>
+→ Led the data science team in Kadogoodiz London where I built a recommender system to recommend what products to buy and at what price to make the best revenue margin. <br>
 → AI and tech advisor for a new SaaS called Alterfy based in the USA.
 
 
