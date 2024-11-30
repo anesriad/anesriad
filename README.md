@@ -4,7 +4,7 @@
 #  Work with me: https://bio.link/riadanas
 ## My Portfolio:
 
-→ 3 years of experience as a consultant data scientist, delivering solutions across industries like Sales, HR, Tech, Law, and SaaS 
+→ 3 years of experience as a consultant data scientist, delivering solutions across industries like Sales, HR, Tech, Law, and SaaS /n
 → Content creator on LinkedIn (5k+ followers) and YouTube (1k+ subs) sharing content data science and growth.
 → Ex-co-founder of Syndic8, a musical event company that scaled to 6 figures and professional Dj for 5 years
 → Previous experience as a performance coach, helping professionals improve their lifestyle and health
