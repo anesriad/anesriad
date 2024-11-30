@@ -1,4 +1,4 @@
-![Data Scientist](https://github.com/anesriad/anesriad/blob/main/data%20syndicate%20github.png)
+![Data Scientist](https://github.com/anesriad/anesriad/blob/55e3e06886775e239ce9e92805e27f4ab1bfde90/Twitter%20banner%20(1).png)
 
 #  Data Scientist based in the UK
 #  Work with me: https://bio.link/riadanas
