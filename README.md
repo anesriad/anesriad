@@ -5,7 +5,7 @@
 ## My Portfolio:
 
 → 3 years of experience as a consultant data scientist, delivering solutions across industries like Sales, HR, Tech, Law, and SaaS <br>
-→ Content creator on LinkedIn (5k+ followers) and YouTube (1k+ subs) sharing content data science and growth <br>
+→ Content creator on LinkedIn (6k+ followers) and YouTube (2k+ subs) sharing content data science and growth <br>
 → Ex-co-founder of Syndic8, a musical event company that scaled to 6 figures and professional Dj for 5 years <br>
 → Previous experience as a performance coach, helping professionals improve their lifestyle and health <br>
 
