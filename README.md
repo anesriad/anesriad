@@ -50,7 +50,7 @@
 
 ## YouTube tutorials / Projects (Teaching)
 
-<a href="https://github.com/anesriad/YT_tutorials.git"><img src= "https://www.youtube.com/@anas_riad" width="256" alt= "Anas Riad" /> </a>
+<a href="https://github.com/anesriad/YT_tutorials.git"><img src= "https://github.com/anesriad/anesriad/blob/main/Screenshot%202025-04-11%20at%2008.58.12.png" width="256" alt= "Anas Riad" /> </a>
 
 
 ## Personal learning projects (university and other):
