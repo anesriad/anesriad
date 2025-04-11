@@ -2,17 +2,20 @@
 
 #  Data Scientist based in the UK
 #  Work with me: https://bio.link/riadanas
+#  Hire me on Upwork (100% Job Success / Top Rated Plus): https://www.upwork.com/freelancers/anasriad
 ## My Portfolio:
 
+→ Currently working as a data analyst and BI consultant for a tech company (contract)
 → 3 years of experience as a consultant data scientist, delivering solutions across industries like Sales, HR, Tech, Law, and SaaS <br>
 → Content creator on LinkedIn (6k+ followers) and YouTube (2k+ subs) sharing content data science and growth <br>
-→ Ex-co-founder of Syndic8, a musical event company that scaled to 6 figures and professional Dj for 5 years <br>
+→ Ex-co-founder of Syndic8, a musical event company that scaled to 6 figures and professional DJ for 5 years <br>
 → Previous experience as a performance coach, helping professionals improve their lifestyle and health <br>
 
 
 ## My results
 
 → 14 clients successfully served across various sectors  <br>
+→ 5M$ ARR growth with data analytics to get clients to sign new deals  <br>
 → 6-figure growth achieved with Syndic8  <br>
 → Engaged online community across multiple platforms  <br>
 → Regular content production with a focus on practical data science tips and business strategies <br>
@@ -22,7 +25,7 @@
 → big data (PySpark) <br>
 → Database management (MySQL, PostgreSQL) <br>
 → Data science/engineering (Microsoft Fabric) <br>
-→ Data visualisation, dashboards, and reporting (Power BI, Python(Plotly, MatplotLib, Seaborn)) <br>
+→ Data visualisation, dashboards, and reporting (PowerPoint, Power BI, Python(Plotly, MatplotLib, Seaborn)) <br>
 → Cloud platforms (AWS 2x certified, Microsoft Azure x1 certified, GCP) <br>
 
 ## Certifications:
@@ -36,6 +39,7 @@
 
 
 # Professional projects (client's name and data not disclosed)
+→ 5M$ ARR growth with data analytics to get clients to sign new deals within the recruitment industry (worldwide)
 → Handled BI for an executive HR recruitment company based in London that operates worldwide using Power BI and Microsoft Fabric. <br>
 → Managed MySQL database, cleaned datasets, analysed datasets with Pandas, and performed NLP to recommend the persona most likely to sign up for a postgraduate law course in a university of law in the UK for an HR law firm based in London. Used primarily MySQL, Python, and Notion for reporting. <br>
 → Analysed datasets and performed NLP for a Sales/finance company based in London where I created a recommender system that takes free-text as input from salesmen and returns the best personal development plan to follow. Used primarily Python on this project and Notion to report. <br>
