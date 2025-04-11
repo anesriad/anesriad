@@ -5,7 +5,7 @@
 ##  Hire me on Upwork (100% Job Success / Top Rated Plus): https://www.upwork.com/freelancers/anasriad
 ## My Portfolio:
 
-→ Currently working as a data analyst and BI consultant for a tech company (contract)
+→ Currently working as a data analyst and BI consultant for a tech company (contract) <br>
 → 3 years of experience as a consultant data scientist, delivering solutions across industries like Sales, HR, Tech, Law, and SaaS <br>
 → Content creator on LinkedIn (6k+ followers) and YouTube (2k+ subs) sharing content data science and growth <br>
 → Ex-co-founder of Syndic8, a musical event company that scaled to 6 figures and professional DJ for 5 years <br>
@@ -39,7 +39,7 @@
 
 
 # Professional projects (client's name and data not disclosed)
-→ 5M$ ARR growth with data analytics to get clients to sign new deals within the recruitment industry (worldwide)
+→ 5M$ ARR growth with data analytics to get clients to sign new deals within the recruitment industry (worldwide) <br>
 → Handled BI for an executive HR recruitment company based in London that operates worldwide using Power BI and Microsoft Fabric. <br>
 → Managed MySQL database, cleaned datasets, analysed datasets with Pandas, and performed NLP to recommend the persona most likely to sign up for a postgraduate law course in a university of law in the UK for an HR law firm based in London. Used primarily MySQL, Python, and Notion for reporting. <br>
 → Analysed datasets and performed NLP for a Sales/finance company based in London where I created a recommender system that takes free-text as input from salesmen and returns the best personal development plan to follow. Used primarily Python on this project and Notion to report. <br>
