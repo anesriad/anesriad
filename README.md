@@ -1,8 +1,8 @@
 ![Data Scientist](https://github.com/anesriad/anesriad/blob/55e3e06886775e239ce9e92805e27f4ab1bfde90/Twitter%20banner%20(1).png)
 
 #  Data Scientist based in the UK
-#  Work with me: https://bio.link/riadanas
-#  Hire me on Upwork (100% Job Success / Top Rated Plus): https://www.upwork.com/freelancers/anasriad
+##  Work with me: https://bio.link/riadanas
+##  Hire me on Upwork (100% Job Success / Top Rated Plus): https://www.upwork.com/freelancers/anasriad
 ## My Portfolio:
 
 → Currently working as a data analyst and BI consultant for a tech company (contract)
