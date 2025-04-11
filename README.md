@@ -48,6 +48,10 @@
 → Led the data science team in Kadogoodiz London where I built a recommender system to recommend what products to buy and at what price to make the best revenue margin. <br>
 → AI and tech advisor for a new SaaS called Alterfy based in the USA.
 
+## YouTube tutorials / Projects (Teaching)
+
+<a href="https://github.com/anesriad/YT_tutorials.git"><img src= "https://www.youtube.com/@anas_riad" width="256" alt= "Anas Riad" /> </a>
+
 
 ## Personal learning projects (university and other):
 
