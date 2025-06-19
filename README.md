@@ -55,25 +55,31 @@
 
 ## Personal learning projects (university and other):
 
-### 1/ Video games analysis and recommender system
+### Penguin Specifies Classification - End 2 End ML project
+<a href="https://github.com/anesriad/penguin-ml-end-to-end.git"><img src= "https://github.com/anesriad/anesriad/blob/main/penguins.jpg" width="256" alt= "Penguin species classification ML" /> </a>
+
+### Email Phishing Classification - End 2 End ML project
+<a href="https://github.com/anesriad/phishing_end2end.git"><img src= "https://github.com/anesriad/anesriad/blob/main/emaiul%20phishing.png" width="256" alt= "Email Phishing classification ML" /> </a>
+
+### Video games analysis and recommender system
 <a href="https://github.com/anesriad/video_games_recommender.git"><img src= "https://github.com/anesriad/video_games_recommender/blob/main/video_game_image.jpeg" width="256" alt= "video games recommender" /> </a>
 
-### 2/ Deep learning project on breast cancer classification
+### Deep learning project on breast cancer classification
 <a href="https://github.com/anesriad/deep_learning_breast_cancer.git"><img src= "https://github.com/anesriad/anesriad/blob/main/breast_cancer.jpeg" width="256" alt= "Deep learning breast cancer" /> </a>
 
-### 3/ Machine learning project and deployment (web App) on type 2 diabetes for pregnant women
+###Machine learning project and deployment (web App) on type 2 diabetes for pregnant women
 <a href="https://github.com/anesriad/ML_diabetes"><img src= "https://github.com/anesriad/anesriad/blob/main/ML_type2_diabetes.png" width="256" alt= "ML diabetes type 2" /> </a>
 
-### 4/ Machine learning project on submarines categorizing: Rocks vs Mines
+### Machine learning project on submarines categorizing: Rocks vs Mines
 <a href="https://github.com/anesriad/rock_vs_mine.git"><img src= "https://github.com/anesriad/anesriad/blob/main/rock_vs_mine_picture.jpeg" width="256" alt= "ML rock vs mine" /> </a>
 
-### 5/ Machine learning project on housing prices in Boston (USA) / Regression
+### Machine learning project on housing prices in Boston (USA) / Regression
 <a href="https://github.com/anesriad/housing_prices.git"><img src= "https://github.com/anesriad/anesriad/blob/main/Beautiful-Houses.jpeg" width="256" alt= "ML housing prices" /> </a>
 
-### 6/ Machine learning project on fake news classification
+### Machine learning project on fake news classification
 <a href="https://github.com/anesriad/Fake_news_ML.git"><img src= "https://github.com/anesriad/anesriad/blob/main/fake_news.jpeg" width="256" alt= "ML fake news" /> </a>
 
-### 7/ Web Scrapping for books using BeautifulSoup
+### Web Scrapping for books using BeautifulSoup
 <a href="https://github.com/anesriad/web_scrapping_books_bs4.git"><img src= "https://github.com/anesriad/web_scrapping_books_bs4/blob/main/books2.jpeg" width="256" alt= "web scrapping books" /> </a>
 
 More projects in repositories!
