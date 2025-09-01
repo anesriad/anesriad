@@ -7,14 +7,14 @@
 
 → Currently working as a data analyst and BI consultant for a tech company (contract) <br>
 → 3 years of experience as a consultant data scientist, delivering solutions across industries like Sales, HR, Tech, Law, and SaaS <br>
-→ Content creator on LinkedIn (6k+ followers) and YouTube (2k+ subs) sharing content data science and growth <br>
+→ Content creator on LinkedIn (10k+ followers) and YouTube (3k+ subs) sharing content data science and growth <br>
 → Ex-co-founder of Syndic8, a musical event company that scaled to 6 figures and professional DJ for 5 years <br>
 → Previous experience as a performance coach, helping professionals improve their lifestyle and health <br>
 
 
 ## My results
 
-→ 14 clients successfully served across various sectors  <br>
+→ 14+ clients successfully served across various sectors  <br>
 → 5M$ ARR growth with data analytics to get clients to sign new deals  <br>
 → 6-figure growth achieved with Syndic8  <br>
 → Engaged online community across multiple platforms  <br>
@@ -23,6 +23,8 @@
 ## My skills
 → Data cleaning, exploration, analysis, and visualization (Python) <br>
 → big data (PySpark) <br>
+→ ML Engineering (MLFlow, FastAPI, Docker)  <br>
+→ MLOPs (Docker, CI/CD, Deploy, monitoring)  <br>
 → Database management (MySQL, PostgreSQL) <br>
 → Data science/engineering (Microsoft Fabric) <br>
 → Data visualisation, dashboards, and reporting (PowerPoint, Power BI, Python(Plotly, MatplotLib, Seaborn)) <br>
